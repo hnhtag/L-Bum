@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L-Bum</string>
+    <string name="top10_tracks">Top 10 Tracks</string>
+    <string name="new_album">New Album</string>
+    <string name="more">More</string>
+    <string name="by_genres">By Genres</string>
+    <string name="artists">Artists</string>
+    <string name="top10_coverTransition">Top10TracksCover</string>
+    <string name="about_us">About us</string>
+</resources>
